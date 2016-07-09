@@ -3,7 +3,7 @@
 This is repository's purpose is to serve the 'canary' (unstable) release
 of the itch app.
 
-Download links:
+## Download links
 
   * [Download latest version](http://nuts-canary.itch.ovh/download)
   * Or, if your platform isn't detected correctly:
@@ -15,7 +15,7 @@ Download links:
     * [macOS 64-bit](http://nuts-canary.itch.ovh/download/mac)
     * [windows 32-bit](http://nuts-canary.itch.ovh/download/windows)
 
-More info:
+## Q & A
 
   * What is the canary release / kitch?
     * <https://docs.itch.ovh/itch/master/installing/canary.html>
