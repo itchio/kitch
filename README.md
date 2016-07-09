@@ -20,7 +20,7 @@ of the itch app.
   * What is the canary release / kitch?
     * <https://docs.itch.ovh/itch/master/installing/canary.html>
   * Why is it named kitch?
-    * Because `itch_canary` and `itch-canary` kept broking various parts of the build, packaging and deployment pipeline.
+    * Because `itch_canary` and `itch-canary` kept breaking various parts of the build pipeline.
   * Why is it blue?
     * Because peek-a-boo and we love you.
 
