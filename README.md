@@ -1,4 +1,4 @@
-# kitch
+# kitch ![](http://nuts-canary.itch.ovh/badge)
 
 kitch is the beta version of the [itch app](https://itch.io/app). It can
 be installed in parallel without conflicting with the stable version.
