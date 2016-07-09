@@ -19,6 +19,9 @@ be installed in parallel without conflicting with the stable version.
 
   * What is the canary release / kitch?
     * <https://docs.itch.ovh/itch/master/installing/canary.html>
+  * Why is this repo empty / where's the source?
+    * Source is here: <https://github.com/itchio/itch>
+    * This repo is used to store GitHub releases for our update server
   * Why is it named kitch?
     * Because `itch_canary` and `itch-canary` kept breaking various parts of the build pipeline.
   * Why is it named canary?
