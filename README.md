@@ -8,10 +8,10 @@ be installed in parallel without conflicting with the stable version.
   * [Download latest version](http://nuts-canary.itch.ovh/download)
   * Or, if your platform isn't detected correctly:
     * linux
-      * .deb packages: [64-bit](http://nuts-canary.itch.ovh/download/deb_64) or [32-bit](http://nuts-canary.itch.ovh/download/deb_32) (for Debian, Ubunt, etc.)
-      * .rpm packages: [64-bit](http://nuts-canary.itch.ovh/download/rpm_64) or [32-bit](http://nuts-canary.itch.ovh/download/rpm_32) (for Fedora etc.)
-      * AUR package: [kitch](https://aur.archlinux.org/packages/kitch/) (kept uptodate by CI server)
-      * portable build: [64-bit](http://nuts-canary.itch.ovh/download/linux_64) or [32-bit](http://nuts-canary.itch.ovh/download/linux_32) (for everything else)
+      * [64-bit deb](http://nuts-canary.itch.ovh/download/deb_64) or [32-bit rpm](http://nuts-canary.itch.ovh/download/deb_32) (for Debian, Ubuntu, etc.)
+      * [64-bit rpm](http://nuts-canary.itch.ovh/download/rpm_64) or [32-bit rpm](http://nuts-canary.itch.ovh/download/rpm_32) (for Fedora etc.)
+      * [AUR package](https://aur.archlinux.org/packages/kitch/) (kept uptodate by CI server)
+      * portable builds: [64-bit](http://nuts-canary.itch.ovh/download/linux_64) or [32-bit](http://nuts-canary.itch.ovh/download/linux_32) (for everything else)
     * [macOS 64-bit](http://nuts-canary.itch.ovh/download/mac)
     * [windows 32-bit](http://nuts-canary.itch.ovh/download/windows)
 
