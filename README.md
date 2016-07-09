@@ -1,7 +1,7 @@
-# itch canary
+# kitch
 
-This is repository's purpose is to serve the 'canary' (unstable) release
-of the itch app.
+kitch is the beta version of the [itch app](https://itch.io/app). It can
+be installed in parallel without conflicting with the stable version.
 
 ## Download links
 
@@ -21,6 +21,10 @@ of the itch app.
     * <https://docs.itch.ovh/itch/master/installing/canary.html>
   * Why is it named kitch?
     * Because `itch_canary` and `itch-canary` kept breaking various parts of the build pipeline.
+  * Why is kitch lagging behind master?
+    * Because it's only built when someone pushes a tag like `vX.Y.Z-canary`
+  * Why is kitch lagging behind stable?
+    * Because there hasn't been a QA session yet after the last stable release
   * Why is it blue?
     * Because peek-a-boo and we love you.
 
