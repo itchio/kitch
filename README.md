@@ -8,10 +8,10 @@ of the itch app.
   * [Download latest version](http://nuts-canary.itch.ovh/download)
   * Or, if your platform isn't detected correctly:
     * linux
-      * [deb 64-bit](http://nuts-canary.itch.ovh/download/deb_64) or [deb 32-bit](http://nuts-canary.itch.ovh/download/deb_32)
-      * [rpm 64-bit](http://nuts-canary.itch.ovh/download/rpm_64) or [rpm 32-bit](http://nuts-canary.itch.ovh/download/rpm_32)
-      * [portable 64-bit](http://nuts-canary.itch.ovh/download/linux_64) or [portable 32-bit](http://nuts-canary.itch.ovh/download/linux_32)
-      * [AUR](https://aur.archlinux.org/packages/kitch/)
+      * .deb packages: [64-bit](http://nuts-canary.itch.ovh/download/deb_64) or [32-bit](http://nuts-canary.itch.ovh/download/deb_32) (for Debian, Ubunt, etc.)
+      * .rpm packages: [64-bit](http://nuts-canary.itch.ovh/download/rpm_64) or [32-bit](http://nuts-canary.itch.ovh/download/rpm_32) (for Fedora etc.)
+      * AUR package: [kitch](https://aur.archlinux.org/packages/kitch/) (kept uptodate by CI server)
+      * portable build: [64-bit](http://nuts-canary.itch.ovh/download/linux_64) or [32-bit](http://nuts-canary.itch.ovh/download/linux_32) (for everything else)
     * [macOS 64-bit](http://nuts-canary.itch.ovh/download/mac)
     * [windows 32-bit](http://nuts-canary.itch.ovh/download/windows)
 
