@@ -21,6 +21,9 @@ be installed in parallel without conflicting with the stable version.
     * <https://docs.itch.ovh/itch/master/installing/canary.html>
   * Why is it named kitch?
     * Because `itch_canary` and `itch-canary` kept breaking various parts of the build pipeline.
+  * Why is it named canary?
+    * Stole the word from Google Chrome.
+    * Also, canaries let you know when a mine's about to blow up.
   * Why is kitch lagging behind master?
     * Because it's only built when someone pushes a tag like `vX.Y.Z-canary`
   * Why is kitch lagging behind stable?
