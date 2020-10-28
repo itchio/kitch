@@ -1,19 +1,11 @@
-# kitch [![](http://nuts-canary.itch.ovh/badge)](https://github.com/itchio/kitch/releases/latest)
+# kitch
 
 kitch is the beta version of the [itch app](https://itch.io/app). It can
 be installed in parallel without conflicting with the stable version.
-
 ## Download links
 
-  * [Download latest version](http://nuts-canary.itch.ovh/download)
-  * Or, if your platform isn't detected correctly:
-    * linux
-      * [64-bit deb](http://nuts-canary.itch.ovh/download/deb_64) or [32-bit rpm](http://nuts-canary.itch.ovh/download/deb_32) (for Debian, Ubuntu, etc.)
-      * [64-bit rpm](http://nuts-canary.itch.ovh/download/rpm_64) or [32-bit rpm](http://nuts-canary.itch.ovh/download/rpm_32) (for Fedora etc.)
-      * [AUR package](https://aur.archlinux.org/packages/kitch/) (kept uptodate by CI server)
-      * portable builds: [64-bit](http://nuts-canary.itch.ovh/download/linux_64) or [32-bit](http://nuts-canary.itch.ovh/download/linux_32) (for everything else)
-    * [macOS 64-bit](http://nuts-canary.itch.ovh/download/mac)
-    * [windows 32-bit](http://nuts-canary.itch.ovh/download/windows)
+  * [Install using kitch-setup](https://itchio.itch.io/kitch-setup)  
+  * [Download archive for app directly](https://itchio.itch.io/kitch)
 
 ## Q & A
 
@@ -21,7 +13,7 @@ be installed in parallel without conflicting with the stable version.
     * <https://docs.itch.ovh/itch/master/installing/canary.html>
   * Why is this repo empty / where's the source?
     * Source is here: <https://github.com/itchio/itch>
-    * This repo is used to store GitHub releases for our update server
+    * This repo is used to be for storing releases, but we now use butler to deploy releases directly to itch.io
   * Why is it named kitch?
     * Because `itch_canary` and `itch-canary` kept breaking various parts of the build pipeline.
   * Why is it named canary?
