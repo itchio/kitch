@@ -4,8 +4,8 @@ kitch is the beta version of the [itch app](https://itch.io/app). It can
 be installed in parallel without conflicting with the stable version.
 ## Download links
 
-  * [Install using kitch-setup](https://itchio.itch.io/kitch-setup)  
-  * [Download archive for app directly](https://itchio.itch.io/kitch)
+  * [Install using kitch-setup](https://itchio.itch.io/kitch-setup) (Recommended for autoupdates to kitch) 
+  * [Download kitch archive directly](https://itchio.itch.io/kitch)
 
 ## Q & A
 
